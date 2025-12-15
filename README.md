@@ -10,3 +10,5 @@ It includes programming exercises, reflections, and design works that explore ho
 -Using Jupyter Notebook to Record Experiments and Reflections.     
 -Understand the working principles of artificial intelligence and machine learning from a conceptual perspective.     
 -Critically reflecting on the cultural, ethical, and social impacts of artificial intelligence.     
+# Name to code space
+glorious space computing-machine
