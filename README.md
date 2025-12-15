@@ -5,8 +5,8 @@ Learn and be able to master basic programming and various app applications, and 
 This repository records my learning process of the course "Application of Artificial Intelligence in the Field of Art and Humanities".
 It includes programming exercises, reflections, and design works that explore how to understand, interpret, and critically evaluate artificial intelligence from an artistic and humanistic perspective.
 ## Goals
--Learn the basics of GitHub (repository, commit, and version control).
--Familiar with reading and running simple Python code.
--Using Jupyter Notebook to Record Experiments and Reflections.
--Understand the working principles of artificial intelligence and machine learning from a conceptual perspective.
--Critically reflecting on the cultural, ethical, and social impacts of artificial intelligence.
+-Learn the basics of GitHub (repository, commit, and version control).    
+-Familiar with reading and running simple Python code.    
+-Using Jupyter Notebook to Record Experiments and Reflections.     
+-Understand the working principles of artificial intelligence and machine learning from a conceptual perspective.     
+-Critically reflecting on the cultural, ethical, and social impacts of artificial intelligence.     
