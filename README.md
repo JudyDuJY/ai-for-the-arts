@@ -12,5 +12,5 @@ It includes programming exercises, reflections, and design works that explore ho
 -Critically reflecting on the cultural, ethical, and social impacts of artificial intelligence.     
 # Name to code space
 glorious space computing-machine
-#Install Python and Jupyter extensions
+# Install Python and Jupyter extensions
 After installing the Python and Jupyter extensions in GitHub Codespaces, I committed the environment changes and synced them to my GitHub repository to ensure consistency across sessions.
