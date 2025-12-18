@@ -10,7 +10,19 @@ It includes programming exercises, reflections, and design works that explore ho
 -Using Jupyter Notebook to Record Experiments and Reflections.     
 -Understand the working principles of artificial intelligence and machine learning from a conceptual perspective.     
 -Critically reflecting on the cultural, ethical, and social impacts of artificial intelligence.     
+-Learn how to work with datasets using Pandas.   
+-Gain first experience with scikit-learn models.    
+## Repository Content
+-Jupyter notebooks from weekly lab exercises（coding exercise)
+-Reflecting on Machine Learning 
+-Creative Design
+## Media Attribution
+- Image: "Stages of the Machine Learning Process"  
+  Author: Dr. John Martin  
+  Source: https://www.linkedin.com/pulse/how-does-machine-learning-work-dr-john-martin-uzlcf  
+  License: © Dr. John Martin / LinkedIn Pulse. Used for educational and non-commercial purposes only.
 # Name to code space
 glorious space computing-machine
 # Install Python and Jupyter extensions
 After installing the Python and Jupyter extensions in GitHub Codespaces, I committed the environment changes and synced them to my GitHub repository to ensure consistency across sessions.
+# Student GUID: 2763446D
